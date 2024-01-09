@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SachinMW7
 - 👀 I’m interested in ... Frontend developer
-- 🌱 I’m currently learning ...html,css, javascript,pho,sql,nodejs
+- 🌱 I’m currently learning ...html,css, javascript,php,react.js,sql,nodejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
